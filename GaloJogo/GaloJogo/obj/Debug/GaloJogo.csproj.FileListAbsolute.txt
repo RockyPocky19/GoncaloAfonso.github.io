@@ -1,0 +1,10 @@
+C:\Users\rocky\Documents\GaloJogo\GaloJogo\GaloJogo\bin\Debug\GaloJogo.exe.config
+C:\Users\rocky\Documents\GaloJogo\GaloJogo\GaloJogo\bin\Debug\GaloJogo.exe
+C:\Users\rocky\Documents\GaloJogo\GaloJogo\GaloJogo\bin\Debug\GaloJogo.pdb
+C:\Users\rocky\Documents\GaloJogo\GaloJogo\GaloJogo\obj\Debug\GaloJogo.csproj.AssemblyReference.cache
+C:\Users\rocky\Documents\GaloJogo\GaloJogo\GaloJogo\obj\Debug\GaloJogo.Form1.resources
+C:\Users\rocky\Documents\GaloJogo\GaloJogo\GaloJogo\obj\Debug\GaloJogo.Properties.Resources.resources
+C:\Users\rocky\Documents\GaloJogo\GaloJogo\GaloJogo\obj\Debug\GaloJogo.csproj.GenerateResource.cache
+C:\Users\rocky\Documents\GaloJogo\GaloJogo\GaloJogo\obj\Debug\GaloJogo.csproj.CoreCompileInputs.cache
+C:\Users\rocky\Documents\GaloJogo\GaloJogo\GaloJogo\obj\Debug\GaloJogo.exe
+C:\Users\rocky\Documents\GaloJogo\GaloJogo\GaloJogo\obj\Debug\GaloJogo.pdb
